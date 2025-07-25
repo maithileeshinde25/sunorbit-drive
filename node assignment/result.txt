@@ -1,0 +1,1 @@
+Longest word: "quick" (5 characters)
